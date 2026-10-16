@@ -20,11 +20,11 @@ const AppConfig = {
      * Your Spotify Developer app's Client ID.
      * Found at: https://developer.spotify.com/dashboard → your app → Settings
      */
-    SPOTIFY_CLIENT_ID: "e96819b4ea994c588fa3f09e9af3a496",
+    SPOTIFY_CLIENT_ID: "f73ff62d3fe84d478be7e3e89f73371f",
 
     /**
      * The URL your app is deployed at on GitHub Pages.
-     * Pattern: https://<your-github-username>.github.io
+     * Pattern: https://github.com/samortega316/can-bot.github.io
      *
      * If your repo is named <username>.github.io (a user page), there is
      * no subdirectory — the URL is just your username.github.io.
